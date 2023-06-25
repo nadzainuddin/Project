@@ -10,6 +10,10 @@
 - https://gitlab.com/nzainuddin/setelassignment
 
 
+### Rest Assured - Java
+- https://github.com/nadzainuddin/restassured01
+
+
 ### Other
 - https://gitlab.com/nzainuddin/sql-murder-mystery-knight-lab
 - https://gitlab.com/nzainuddin/jupyter-notebook
