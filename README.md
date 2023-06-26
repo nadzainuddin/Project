@@ -2,6 +2,7 @@
 
 ### Cypress
 - [UI] https://github.com/nadzainuddin/Cypress-Automation-01
+- [UI] https://github.com/nadzainuddin/starboard-assessment/tree/main
 - [API] https://github.com/nadzainuddin/cypress-api
 
 
